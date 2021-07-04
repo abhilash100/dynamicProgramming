@@ -1,9 +1,14 @@
 About the Project:
+
     This project has been created with the aim of solving the most common/popular DP problems
     to improve my understanding on the subject
 
+
 Build With: 
-    python 3
+
+    1. Prog Language: python 3
+    2. Version Control: Git
+
 
 Problem List:
 1. 0-1 Knapsack
@@ -57,5 +62,3 @@ Problem List:
     d. Best Time to Buy and Sell Stock
     e. Distinct Subsequences
     f. Equal Sum Partition
-   
-Usage:

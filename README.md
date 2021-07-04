@@ -50,7 +50,7 @@ Problem List:
     d. Diameter of N-ary tree
     e. Count Binary Trees of Height h
     f. Optimal BST
-9. Others:
+9. Generic:
     a. Fibonacci
     b. Minimum Jumps to Reach End
     c. Loot Houses

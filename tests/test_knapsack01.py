@@ -10,7 +10,7 @@ from dp_common.mode import Mode
 from knapsack01.knapsack01 import Knapsack01
 
 
-class MyTestCase(unittest.TestCase):
+class KnapsackTest(unittest.TestCase):
     def test_knapsack01(self):
         knapsack01 = Knapsack01()
         # Test knapsack with recursion

@@ -9,13 +9,16 @@ Build With:
     1. Prog Language: python 3
     2. Version Control: Git
 
+Test:
+1. cd tests
+2. run command: python3 -m unittest test_*.py
 
 Problem List:
 1. 0-1 Knapsack
     a. Subset Sum Problem
     b. Equal Sum Partition
     c. Count of Subset Sum
-    d. Minimum Subset Sun Off
+    d. Minimum Subset Sum Of
     e. Target Sum
 2. Unbounded Knapsack
     a. Rod Cutting

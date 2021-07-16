@@ -18,7 +18,7 @@ Problem List:
     a. Subset Sum Problem
     b. Equal Sum Partition
     c. Count of Subset Sum
-    d. Minimum Subset Sum Of
+    d. Minimum Subset Sum
     e. Target Sum
 2. Unbounded Knapsack
     a. Rod Cutting
@@ -65,3 +65,6 @@ Problem List:
     d. Best Time to Buy and Sell Stock
     e. Distinct Subsequences
     f. Equal Sum Partition
+   
+TODO:
+1. Yet to implement subset sum and target sum algorithms using tabulation

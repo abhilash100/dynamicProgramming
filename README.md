@@ -64,7 +64,6 @@ Problem List:
     c. Loot Houses
     d. Best Time to Buy and Sell Stock
     e. Distinct Subsequences
-    f. Equal Sum Partition
    
 TODO:
 1. Yet to implement subset sum and target sum algorithms using tabulation

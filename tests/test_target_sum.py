@@ -11,7 +11,7 @@ from knapsack01.target_sum import TargetSum
 
 
 class TestTargetSum(unittest.TestCase):
-    def test_something(self):
+    def test(self):
         target_sum = TargetSum()
         self.assertEqual(target_sum.target_sum([1,1,1,1,1], 3), 5)
         self.assertEqual(target_sum.target_sum([1], 1), 1)
